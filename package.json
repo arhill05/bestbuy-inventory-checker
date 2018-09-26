@@ -1,0 +1,14 @@
+{
+  "name": "bestbuy-inventory-checker",
+  "version": "1.0.0",
+  "description": "Check the inventory of SKUs on the best buy website to see if they're available for pickup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
